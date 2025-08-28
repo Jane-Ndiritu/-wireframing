@@ -16,3 +16,5 @@ its a design process that serves as a blue print or skeletal framewor of a websi
 ## Types of Wireframes
 * Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 * High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements
+## Popular wireframing tools
+There are many options like Adobe XD, Sketch, Balsamiq, and InVision, Figma stands out as the most practical and user-friendly. It’s cloud-based, works on any device, and lets teams collaborate in real time, making it feel like designing together on a shared canvas. With features like reusable elements, built-in prototyping, and automatic saving, Figma makes it simple to turn rough ideas into polished designs. It’s especially loved because you can start with quick sketches and grow them into detailed prototypes all in one place.
