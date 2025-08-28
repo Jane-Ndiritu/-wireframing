@@ -1,4 +1,4 @@
-# -wireframing
+# Wireframing
 its a design process that serves as a blue print or skeletal framewor of a website or application.
 ## Importance
 1. clarifies ideas and concepts
