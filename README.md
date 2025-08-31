@@ -6,8 +6,7 @@ its a design process that serves as a blue print or skeletal framewor of a websi
 3. identifies usability issues
 4. saves on time and resources
 5. provides aclear layout and structure
-6. guides the design process
-7. forcuses on functionability and user experience
+6.  forcuses on functionability and user experience
 ## Key elements
 1.Layout Structure: Defines the arrangement of elements on the page.
 2.Navigation: Shows how users will move through the site or application.
@@ -68,4 +67,5 @@ Confirm transaction
 Handle booking issues
 Respond to customer inquiries
    ## Diagram Structure
-![alx-booking-uc.png](https://github.com/user-attachments/assets/e7390674-8648-4e1f-b573-3f28989466d9)
+
+<img width="1002" height="941" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/98a59974-c59d-409b-b2e7-65c1a76533e6" />
