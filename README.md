@@ -43,5 +43,29 @@ Its a visual representation of interactions between users and the system. Use ca
 1. Provide a clear visual representation of system functionalities.
 2. Help in identifying and organizing system requirements.
 3. Facilitate communication among stakeholders and development team.
-   
+### Actors
+1. Customer – initiates bookings.
+2. Admin – manages system settings and bookings.
+3. Payment Gateway – processes payments.
+4. Support Staff – handles customer issues.
+### Use Cases
+#### customer
+1. Register / Log in
+2. Search available services (e.g., flights, hotels, events)
+3. Make a booking
+4. Cancel booking
+5. Make payment
+6. View booking history
+#### admin
+1. Add / Update / Remove services
+2. Manage customer accounts
+3. View reports
+4. Manage bookings
+5. Payment Gateway
+6.Process payment
+Confirm transaction
+7. Support Staff
+Handle booking issues
+Respond to customer inquiries
+   ## Diagram Structure
 ![image alt](https://github.com/Jane-Ndiritu/wireframing/blob/039fd79ccc9e669a33a94ae740197bfe9cd0974f/alx-booking-uc.png)
