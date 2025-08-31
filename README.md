@@ -68,4 +68,4 @@ Confirm transaction
 Handle booking issues
 Respond to customer inquiries
    ## Diagram Structure
-![image alt](https://github.com/Jane-Ndiritu/wireframing/blob/039fd79ccc9e669a33a94ae740197bfe9cd0974f/alx-booking-uc.png)
+![image alt](https://github.com/user-attachments/assets/e7390674-8648-4e1f-b573-3f28989466d9)
