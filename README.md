@@ -37,3 +37,10 @@ Wireframes act as a guide for subsequent design and development phases, ensuring
 By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
 ## Wireframing in practice
 Imagine a team designing a mobile banking app. In the wireframing stage, they sketched out the login and navigation flow and tested it with a small group of potential users. The wireframes revealed that many users struggled to locate the “Funds Transfer” feature, as it was buried under multiple menus. Because this was caught early, the team quickly reorganized the layout by bringing the transfer option to the home screen and using clearer icons. This small adjustment made navigation smoother and reduced user confusion. When the final product launched, customers found it easier to complete transactions, leading to higher satisfaction and increased app adoption. This scenario shows that wireframing plays a crucial role in spotting usability issues early, saving time and cost in development, and ultimately ensuring a user-friendly design that meets users’ needs effectively.
+#  Use Case Diagrams
+Its a visual representation of interactions between users and the system. Use case diagrams show how different users (actors) interact with the system to achieve specific goals (use cases).
+## Benefits of Use Case Diagrams:
+1. Provide a clear visual representation of system functionalities.
+2. Help in identifying and organizing system requirements.
+3. Facilitate communication among stakeholders and development team.
+   
