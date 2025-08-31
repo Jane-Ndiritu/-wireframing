@@ -44,4 +44,4 @@ Its a visual representation of interactions between users and the system. Use ca
 2. Help in identifying and organizing system requirements.
 3. Facilitate communication among stakeholders and development team.
    
-![image alt](https://github.com/Jane-Ndiritu/wireframing/blob/43858734354097cbd404d745c5611681b52892e9/alx-booking-uc.drawio.png)
+![image alt](https://github.com/Jane-Ndiritu/wireframing/blob/ec501dd632766972e9b11b76897d473a3feac967/alx-booking-uc.png)
